@@ -1,5 +1,7 @@
-#IjsWorkshopWebPage
+<h1>Ijs Coding Workshop</h1>
 
-<h3>Web Page</h3>
 
-<p>This is a very simple example of a landing page for the coding workshop</p>
+
+<h3>Landing Page</h3>
+
+<p>Simple example of a landing page</p>
