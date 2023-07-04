@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<Title>Hello World!</Title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
+#IjsWorkshopWebPage
 
-<h1>Hello world!</h1>
-<p>This is the first file in my new Git Repo.</p>
+<h3>Web Page</h3>
 
-</body>
-</html> 
+<p>This is a very simple example of a landing page for the coding workshop</p>
